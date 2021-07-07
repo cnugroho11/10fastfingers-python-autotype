@@ -1,0 +1,390 @@
+1625658337235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLsreft/search.json.mozlz4", (void 0)))
+1625658339952	Marionette	INFO	Listening on port 43665
+1625658340007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1625658342694	Marionette	INFO	Stopped listening on port 43665
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625658381760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb5kNj5/search.json.mozlz4", (void 0)))
+1625658384149	Marionette	INFO	Listening on port 42957
+1625658384277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1625658386823	Marionette	INFO	Stopped listening on port 42957
+1625658390955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileltWE69/search.json.mozlz4", (void 0)))
+1625658393215	Marionette	INFO	Listening on port 37859
+1625658393260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1625658394990	Marionette	INFO	Stopped listening on port 37859
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625658426706	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehP2Kg4/search.json.mozlz4", (void 0)))
+1625658428899	Marionette	INFO	Listening on port 35355
+1625658429030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.youtube.com/s/desktop/35e75ccf/jsbin/desktop_polymer_disambiguate_properties.vflset/desktop_polymer_disambiguate_properties.js, line 3160: Script terminated by timeout at:
+get@https://www.youtube.com/s/desktop/35e75ccf/jsbin/desktop_polymer_disambiguate_properties.vflset/desktop_polymer_disambiguate_properties.js:3160:241
+get@https://www.youtube.com/s/desktop/35e75ccf/jsbin/desktop_polymer_disambiguate_properties.vflset/desktop_polymer_disambiguate_properties.js:3774:250
+value@https://www.youtube.com/s/desktop/35e75ccf/jsbin/custom-elements-es5-adapter.vflset/custom-elements-es5-adapter.js:11:159
+Nv@https://www.youtube.com/s/desktop/35e75ccf/jsbin/desktop_polymer_disambiguate_properties.vflset/desktop_polymer_disambiguate_properties.js:3793:501
+@https://www.youtube.com/s/desktop/35e75ccf/jsbin/desktop_polymer_disambiguate_properties.vflset/desktop_polymer_disambiguate_properties.js:9449:41
+@https://www.youtube.com/s/desktop/35e75ccf/jsbin/desktop_polymer_disambiguate_properties.vflset/desktop_polymer_disambiguate_properties.js:22215:29
+
+1625658481097	Marionette	INFO	Stopped listening on port 35355
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625658482533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexiYNKS/search.json.mozlz4", (void 0)))
+1625658484915	Marionette	INFO	Listening on port 35337
+1625658485031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1625658507815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGriqAd/search.json.mozlz4", (void 0)))
+1625658510240	Marionette	INFO	Listening on port 35719
+1625658510287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625658511803	Marionette	INFO	Stopped listening on port 35337
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625658519284	Marionette	INFO	Stopped listening on port 35719
+1625658674918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex4IMfC/search.json.mozlz4", (void 0)))
+1625658677043	Marionette	INFO	Listening on port 45589
+1625658677112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625658701732	Marionette	INFO	Stopped listening on port 45589
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625658856130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL5TxA6/search.json.mozlz4", (void 0)))
+1625658858412	Marionette	INFO	Listening on port 45475
+1625658858540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://10fastfingers.com"
+JavaScript error: https://live.primis.tech/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30372D30375F31347D7B7331343433373136357D7B433136307D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=36.68.8.212&userUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A89.0%29+Gecko%2F20100101+Firefox%2F89.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=60e595f5e5e7f&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8wztqjhsn&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Findonesian&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=1&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-7.5533&geoLong=110.831&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 308: TypeError: this.config.onViewabilityChange is undefined
+JavaScript error: https://live.primis.tech/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30372D30375F31347D7B7331343433373136357D7B433136307D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=36.68.8.212&userUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A89.0%29+Gecko%2F20100101+Firefox%2F89.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=60e595f5e5e7f&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8wztqjhsn&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Findonesian&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=1&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-7.5533&geoLong=110.831&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 304: TypeError: t.vpaidSlot is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1625658918048	Marionette	INFO	Stopped listening on port 45475
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625658958972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLWU3yg/search.json.mozlz4", (void 0)))
+1625658961328	Marionette	INFO	Listening on port 35643
+1625658961375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625658972774	Marionette	INFO	Stopped listening on port 35643
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625658974578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea8nwZZ/search.json.mozlz4", (void 0)))
+1625658976819	Marionette	INFO	Listening on port 34941
+1625658976875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625658990184	Marionette	INFO	Stopped listening on port 34941
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625659089039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevMUf93/search.json.mozlz4", (void 0)))
+1625659091258	Marionette	INFO	Listening on port 36611
+1625659091372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625659112221	Marionette	INFO	Stopped listening on port 36611
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625659181637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWdXrso/search.json.mozlz4", (void 0)))
+1625659184053	Marionette	INFO	Listening on port 44903
+1625659184088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625659202838	Marionette	INFO	Stopped listening on port 44903
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625659225753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEbkFvi/search.json.mozlz4", (void 0)))
+1625659227939	Marionette	INFO	Listening on port 44011
+1625659227976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625659247280	Marionette	INFO	Stopped listening on port 44011
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625659268630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexfudvI/search.json.mozlz4", (void 0)))
+1625659270879	Marionette	INFO	Listening on port 39775
+1625659271006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625659283377	Marionette	INFO	Stopped listening on port 39775
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625659699380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDWdbsF/search.json.mozlz4", (void 0)))
+1625659701537	Marionette	INFO	Listening on port 38903
+1625659701649	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625659729879	Marionette	INFO	Stopped listening on port 38903
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625659866633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3bXBxW/search.json.mozlz4", (void 0)))
+1625659868871	Marionette	INFO	Listening on port 42903
+1625659868959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625659933776	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee4hSd8/search.json.mozlz4", (void 0)))
+1625659936043	Marionette	INFO	Listening on port 33903
+1625659936106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625659941236	Marionette	INFO	Stopped listening on port 33903
+1625659956140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTKamSC/search.json.mozlz4", (void 0)))
+1625659958412	Marionette	INFO	Listening on port 43339
+1625659958446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 249: TypeError: p is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 236: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+1625660011562	Marionette	INFO	Stopped listening on port 43339
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625660027600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0mqTCJ/search.json.mozlz4", (void 0)))
+1625660029894	Marionette	INFO	Listening on port 45073
+1625660029988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1625660059022	Marionette	INFO	Stopped listening on port 45073
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625660060445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS4ejVj/search.json.mozlz4", (void 0)))
+1625660062861	Marionette	INFO	Listening on port 36715
+1625660062919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://live.primis.tech/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30372D30375F31357D7B7331343433373136357D7B433136307D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=36.68.8.212&userUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A89.0%29+Gecko%2F20100101+Firefox%2F89.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=60e59aaaaca75&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8wztqjhsn&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Findonesian&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=1&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-7.5533&geoLong=110.831&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 308: TypeError: this.config.onViewabilityChange is undefined
+1625660187368	Marionette	INFO	Stopped listening on port 36715
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625660189123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezNLYA3/search.json.mozlz4", (void 0)))
+1625660191495	Marionette	INFO	Listening on port 39713
+1625660191533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://live.primis.tech/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30372D30375F31357D7B7331343433373136357D7B433136307D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=36.68.8.212&userUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A89.0%29+Gecko%2F20100101+Firefox%2F89.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=60e59b2a9bea3&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8wztqjhsn&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Findonesian&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=1&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-7.5533&geoLong=110.831&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 308: TypeError: this.config.onViewabilityChange is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 249: TypeError: p is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625660281324	Marionette	INFO	Stopped listening on port 39713
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1253: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1625660283942	Marionette	INFO	Stopped listening on port 42903
+1625660485896	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegLc9g8/search.json.mozlz4", (void 0)))
+1625660487699	Marionette	INFO	Listening on port 32865
+1625660487795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625660489706	Marionette	INFO	Stopped listening on port 32865
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625660495889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG07CLL/search.json.mozlz4", (void 0)))
+1625660497603	Marionette	INFO	Listening on port 32961
+1625660497706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://live.primis.tech/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30372D30375F31357D7B7331343433373136357D7B433136307D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=36.68.8.212&userUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A89.0%29+Gecko%2F20100101+Firefox%2F89.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=60e59c5f4ebe5&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8wztqjhsn&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Findonesian&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=1&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-7.5533&geoLong=110.831&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 308: TypeError: this.config.onViewabilityChange is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 249: TypeError: p is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 267: TypeError: words[word_pointer] is undefined
+1625660588905	Marionette	INFO	Stopped listening on port 32961
+1625660590275	Marionette	INFO	Marionette enabled
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX2hbos/search.json.mozlz4", (void 0)))
+1625660592051	Marionette	INFO	Listening on port 45351
+1625660592173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://live.primis.tech/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30372D30375F31357D7B7331343433373136357D7B433136307D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=36.68.8.212&userUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A89.0%29+Gecko%2F20100101+Firefox%2F89.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=60e59cd27294c&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8wztqjhsn&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Findonesian&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=1&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-7.5533&geoLong=110.831&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 308: TypeError: this.config.onViewabilityChange is undefined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1621593658, line 249: TypeError: p is undefined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159196&userIdMacro=PM_UID&gdpr=0&gdpr_consent=&predirect=https%3A%2F%2Flive.primis.tech%2Flive%2FliveCS.php%3Fsource%3Dexternal%26csuuid%3D60e59cd27294c%26pixel%3D%26advId%3D91%26advUuid%3DPM_UID%26gdpr%3D0%26gdpr_consent%3D, line 1: ReferenceError: CommonMeta is not defined
+1625660735365	Marionette	INFO	Stopped listening on port 45351
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625660877624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewD3dTC/search.json.mozlz4", (void 0)))
+1625660878875	Marionette	INFO	Listening on port 43349
+1625660878973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625660895908	Marionette	INFO	Stopped listening on port 43349
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625660982064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew9jI0t/search.json.mozlz4", (void 0)))
+1625660983543	Marionette	INFO	Listening on port 33233
+1625660983598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://live.primis.tech/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30372D30375F31357D7B7331343433373136357D7B433136307D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=36.68.8.212&userUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A89.0%29+Gecko%2F20100101+Firefox%2F89.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=60e59e49a79c4&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8wztqjhsn&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Findonesian&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=1&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-7.5533&geoLong=110.831&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 303: NS_ERROR_NOT_INITIALIZED: 
+1625661016066	Marionette	INFO	Stopped listening on port 33233
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625661070407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBt4GPo/search.json.mozlz4", (void 0)))
+1625661071851	Marionette	INFO	Listening on port 36001
+1625661071881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
