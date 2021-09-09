@@ -1,4 +1,4 @@
-#!/home/cnugroho/Code/python-app/venv/bin/python
+#!/home/cnugroho/Code/10fastfingers-python-autotype/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

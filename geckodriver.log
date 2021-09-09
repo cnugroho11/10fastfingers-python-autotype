@@ -388,3 +388,89 @@ JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > inje
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1631171606345	geckodriver	INFO	Listening on 127.0.0.1:44145
+1631171606364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCbXBnb"
+1631171607070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCbXBnb/search.json.mozlz4", (void 0)))
+1631171609049	Marionette	INFO	Listening on port 36515
+1631171609114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1631171628361	Marionette	INFO	Stopped listening on port 36515
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631171722136	geckodriver	INFO	Listening on 127.0.0.1:56095
+1631171722155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeqbG88"
+1631171722850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeqbG88/search.json.mozlz4", (void 0)))
+1631171725008	Marionette	INFO	Listening on port 37021
+1631171725102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1631171840520	Marionette	INFO	Stopped listening on port 37021
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631171843488	geckodriver	INFO	Listening on 127.0.0.1:60175
+1631171843509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefJ4Msh"
+1631171844194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefJ4Msh/search.json.mozlz4", (void 0)))
+1631171846185	Marionette	INFO	Listening on port 35017
+1631171846256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1631171861747	Marionette	INFO	Stopped listening on port 35017
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631171879430	geckodriver	INFO	Listening on 127.0.0.1:54569
+1631171879449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCmmE7Q"
+1631171880141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCmmE7Q/search.json.mozlz4", (void 0)))
+1631171882149	Marionette	INFO	Listening on port 39279
+1631171882200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1631171914312	Marionette	INFO	Stopped listening on port 39279
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631171945397	geckodriver	INFO	Listening on 127.0.0.1:56045
+1631171945416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKwAUK5"
+1631171946083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKwAUK5/search.json.mozlz4", (void 0)))
+1631171948213	Marionette	INFO	Listening on port 44391
+1631171948272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/indonesian line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1631171987385	Marionette	INFO	Stopped listening on port 44391
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
